@@ -10,7 +10,13 @@
 
 ## Como rodar em sua maquina!
 
-- Abra o terminal na pasta raiz do projeto **nlwSetupServer** e digite o comando
+- Abra o terminal na pasta raiz do projeto **nlwSetupServer** e digite o comando:
+
+```terminal
+npm install
+```
+
+- Após a instalação concluir digite o comando:
 
 ```terminal
 npm run dev
